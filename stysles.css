@@ -1,3 +1,15 @@
 html{
     background-color: #884bb1;
 }
+.square-list{
+    list-style-type: square;
+    color:aqua;
+}
+.letters-list{
+    list-style-type: upper-alpha;
+    color:rgb(129, 255, 221);
+}
+.nav{
+    list-style-type: none;
+    color:rgb(129, 255, 146);
+}
