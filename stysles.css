@@ -11,4 +11,7 @@ html{
 }
 .nav{
     list-style-type: none;
+    background-color: #337e8b;
+    padding: 30px;
+    margin-bottom: 100px;
 }
